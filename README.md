@@ -1,3 +1,3 @@
-Customers Service
+Customers Webservice
 =================
 
