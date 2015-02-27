@@ -1,3 +1,3 @@
 Customers Webservice
 =================
-Sample App
+Sample App for REST webservice
