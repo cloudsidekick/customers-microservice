@@ -24,6 +24,7 @@ import lombok.Data;
 /**
  * @author Oliver Gierke
  */
+/* simulating a change to add middle initial */
 @Entity
 @Data
 public class Customer {
