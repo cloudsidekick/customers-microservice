@@ -2,5 +2,5 @@ Customers Webservice
 =================
 Sample App for REST webservice
 
-Start here...
+Start here, compile first
 
