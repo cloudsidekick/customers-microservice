@@ -25,6 +25,7 @@ import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguratio
 /**
  * @author Oliver Gierke
  */
+/* here a customer change */
 @SpringBootApplication
 @EnableCircuitBreaker
 @EnableDiscoveryClient
