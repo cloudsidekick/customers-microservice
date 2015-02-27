@@ -30,6 +30,7 @@ import lombok.Data;
 /* another loyalty change*/
 /* another loyalty change*/
 /* favorite store feature here */
+/* store favorite store name with id */
 
 @Entity
 @Data
