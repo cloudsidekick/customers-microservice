@@ -25,6 +25,8 @@ import lombok.Data;
  * @author Oliver Gierke
  */
 /* simulating a change to add middle initial */
+
+/* here I am adding the loyalty number property */
 @Entity
 @Data
 public class Customer {
