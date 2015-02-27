@@ -29,6 +29,7 @@ import lombok.Data;
 /* here I am adding the loyalty number property */
 /* another loyalty change*/
 /* another loyalty change*/
+/* favorite store feature here */
 
 @Entity
 @Data
