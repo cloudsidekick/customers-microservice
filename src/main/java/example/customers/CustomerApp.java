@@ -31,6 +31,7 @@ import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguratio
 /* another loyalty change again */
 /* another loyalty change again */
 /* another loyalty change again */
+/* another loyalty change again */
 @SpringBootApplication
 @EnableCircuitBreaker
 @EnableDiscoveryClient
