@@ -32,6 +32,7 @@ import lombok.Data;
 /* favorite store feature here */
 /* store favorite store name with id */
 /* another typo fix */
+/* another typo fix */
 
 
 @Entity
