@@ -26,7 +26,6 @@ import org.springframework.data.rest.webmvc.config.RepositoryRestMvcConfiguratio
  * @author Oliver Gierke
  */
 /* here a customer change */
-/* another loyalty change */
 /* another loyalty change again */
 /* another loyalty change again */
 /* another loyalty change again */
