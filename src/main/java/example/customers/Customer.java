@@ -33,7 +33,6 @@ import lombok.Data;
 /* store favorite store name with id */
 /* another typo fix */
 /* another typo fix */
-/* another typo fix */
 /* big time change */
 /* big time change */
 /* simulate a fix for customer lookup error */
