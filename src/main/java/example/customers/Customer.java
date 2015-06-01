@@ -39,6 +39,7 @@ import lombok.Data;
 /* simulate a fix for customer lookup error */
 /* another fix */
 /* love fixes */
+/* comments as code change */
 
 
 @Entity
