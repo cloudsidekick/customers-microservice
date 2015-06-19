@@ -26,7 +26,6 @@ import lombok.Data;
  */
 /* simulating a change to add middle initial */
 
-/* here I am adding the loyalty number property */
 /* another loyalty change*/
 /* another loyalty change*/
 /* favorite store feature here */
