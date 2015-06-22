@@ -26,7 +26,6 @@ import lombok.Data;
  */
 /* simulating a change to add middle initial */
 
-/* another loyalty change*/
 /* favorite store feature here */
 /* store favorite store name with id */
 /* another typo fix */
